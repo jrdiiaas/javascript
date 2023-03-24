@@ -1,0 +1,17 @@
+
+        @media screen and (min-width: 768px) {
+            #mq4livelo {
+                display: none;
+            }
+            #mq3livelo {
+                display: none;
+            }
+        }
+        @media screen and (max-width: 768px) {
+            #mq2livelo {
+            display: none;
+            }
+            #mq1livelo {
+            display: none;
+            }
+        }
