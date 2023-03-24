@@ -4,5 +4,5 @@ while (x <= userNumber) {
     if (x % 2 === 0) {
         console.log(x);
     }
-    x = x + 1;
+    x++
 }
